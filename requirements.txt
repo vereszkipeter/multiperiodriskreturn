@@ -2,3 +2,5 @@ streamlit
 pandas
 plotly
 h5py
+numpy
+streamlit-plotly-events
